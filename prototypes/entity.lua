@@ -50,7 +50,7 @@ data:extend(
             }
         }
     },
-    action_frequency = 30
+    action_cooldown = 30
     },
     {
         type = "projectile",
