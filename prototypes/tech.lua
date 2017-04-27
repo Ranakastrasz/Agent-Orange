@@ -3,7 +3,7 @@ data:extend(
   {
     type = "technology",
     name = "agent-orange",
-    icon = "__Agent Orange__/graphics/agent-orange-capsule.png",
+    icon = "__Agent-Orange__/graphics/agent-orange-capsule.png",
     effects =
     {
       {

@@ -73,7 +73,7 @@ data:extend(
         light = {intensity = 0.5, size = 4},
         animation =
         {
-            filename = "__Agent Orange__/graphics/agent-orange-capsule.png",
+            filename = "__Agent-Orange__/graphics/agent-orange-capsule.png",
             frame_count = 1,
             width = 32,
             height = 32,
@@ -92,7 +92,7 @@ data:extend(
     {
         type = "capsule",
         name = "agent-orange-capsule",
-        icon = "__Agent Orange__/graphics/agent-orange-capsule.png",
+        icon = "__Agent-Orange__/graphics/agent-orange-capsule.png",
         flags = {"goes-to-quickbar"},
         capsule_action =
         {
