@@ -4,6 +4,7 @@ data:extend(
     type = "technology",
     name = "agent-orange",
     icon = "__Agent-Orange__/graphics/agent-orange-capsule.png",
+	icon_size = 32,
     effects =
     {
       {

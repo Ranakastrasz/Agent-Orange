@@ -1,12 +1,12 @@
 
 {
   "name": "Agent-Orange",
-  "version": "15.1.0",
+  "version": "16.1.0",
   "title": "Agent Orange",
   "author": "Ranakastrasz",
   "contact": "~",
   "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=15990",
   "description": "Adds a lesser poison capsule for tree removal.",
   "dependencies": ["base"],
-  "factorio_version": "0.15"
+  "factorio_version": "0.16"
 }
