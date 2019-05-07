@@ -8,6 +8,7 @@ data:extend(
     animation =
     {
         filename = "__base__/graphics/entity/cloud/cloud-45-frames.png",
+      flags = { "compressed" },
         priority = "low",
         width = 256,
         height = 256,
@@ -16,7 +17,6 @@ data:extend(
         line_length = 7,
         scale = 4.2,
     },
-    slow_down_factor = 0,
     affected_by_wind = false,
     cyclic = true,
     duration =  60 * 30,
@@ -66,6 +66,7 @@ data:extend(
                 target_effects =
                 {
                     type = "create-entity",
+                    show_in_tooltip = true,
                     entity_name = "agent-orange-cloud"
                 }
             }

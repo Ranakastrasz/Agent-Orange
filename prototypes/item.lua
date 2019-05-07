@@ -5,7 +5,6 @@ data:extend(
         name = "agent-orange-capsule",
         icon = "__Agent-Orange__/graphics/agent-orange-capsule.png",
 		icon_size = 32,
-        flags = {"goes-to-quickbar"},
         capsule_action =
         {
             type = "throw",
@@ -34,7 +33,7 @@ data:extend(
             }
         },
         subgroup = "capsule",
-        order = "b[poison-capsule]",
+        order = "b[agent-orange-capsule]",
         stack_size = 100
     },
 })
